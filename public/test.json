@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "name": "priority:critical"
+        },
+        {
+            "name": "priority:high"
+        },
+        {
+            "name": "priority:medium"
+        },
+        {
+            "name": "priority:low"
+        },
+        {
+            "name": "type:bug",
+            "description": "Something isn't working"
+        },
+        {
+            "name": "help wanted",
+            "description": "Extra attention is needed"
+        },
+        {
+            "name": "good first issue",
+            "description": "Good for newcomers"
+        },
+        {
+            "name": "status:can't reproduce"
+        },
+        {
+            "name": "status:confirmed"
+        },
+        {
+            "name": "status:duplicate"
+        }
+    ]
+}
